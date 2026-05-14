@@ -1,9 +1,0 @@
-.card h3 {
-  margin-top: 0;
-  color: #7f8c8d;
-  font-size: 14px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-.border-danger { border: 2px solid var(--danger) !important; }
